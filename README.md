@@ -12,10 +12,10 @@
 
 ## Table of contents
 *  CRUD Operations
-** GET
-** PUT
-** DELETE
-** UPDATE
+ * GET
+ * PUT
+ * DELETE
+ * UPDATE
 *  Web Form
 
 ## Scope of functionalities
