@@ -9,3 +9,14 @@
 *  It is low-level (raw) form of data and is also human readable.
 *  It uses **Server Side** Native **NoSQL** for best performance.
 *  It helps developers in faster coding, in-turn reduces development cost.
+
+## Table of contents
+*  CRUD Operations
+** GET
+** PUT
+** DELETE
+** UPDATE
+*  Web Form
+
+## Scope of functionalities
+*
