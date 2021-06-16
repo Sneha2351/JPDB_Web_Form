@@ -13,7 +13,7 @@
 ## Table of contents
 *  CRUD Operations
    * GET
-   * PUT
+   * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%205.jpeg">PUT</a>
    * DELETE
    * UPDATE
 *  Web Form
