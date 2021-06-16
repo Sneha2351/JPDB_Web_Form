@@ -20,3 +20,4 @@
 
 ## Project Status
 <img src= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%201.jpeg">
+<img src= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%202.jpeg">
