@@ -5,10 +5,10 @@
 
 ## Benefits of using JsonPowerDB
 *  It is most secured database of present time because of multiple security layers.
-*  Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
 *  It is low-level (raw) form of data and is also human readable.
 *  It uses **Server Side** Native **NoSQL** for best performance.
 *  It helps developers in faster coding, in-turn reduces development cost.
+*  Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
 
 ## Table of contents
 *  CRUD Operations
@@ -24,4 +24,4 @@
 <img src= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%202.jpeg">
 
 ## Sources
-<a href= "http://login2explore.com/jpdb/docs.html"></a>
+* <a href= "http://login2explore.com/jpdb/docs.html">Documentation Link</a>
