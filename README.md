@@ -15,7 +15,7 @@
    * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%206.jpeg">GET</a>
    * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%205.jpeg">PUT</a>
    * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%206.jpeg">DELETE</a>
-   * UPDATE
+   * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%208.jpeg">UPDATE</a>
 *  Web Form
 
 ## Project Status
